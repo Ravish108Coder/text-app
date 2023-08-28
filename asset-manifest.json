@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.7eebc124.css",
-    "main.js": "/my-app/static/js/main.f8c3d46a.js",
-    "static/js/703.4a01edae.chunk.js": "/my-app/static/js/703.4a01edae.chunk.js",
-    "static/js/9.886f08f7.chunk.js": "/my-app/static/js/9.886f08f7.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.7eebc124.css.map": "/my-app/static/css/main.7eebc124.css.map",
-    "main.f8c3d46a.js.map": "/my-app/static/js/main.f8c3d46a.js.map",
-    "703.4a01edae.chunk.js.map": "/my-app/static/js/703.4a01edae.chunk.js.map",
-    "9.886f08f7.chunk.js.map": "/my-app/static/js/9.886f08f7.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/TextUtils-app/static/css/main.7eebc124.css",
+    "main.js": "/TextUtils-app/static/js/main.e5d0334e.js",
+    "static/js/703.4a01edae.chunk.js": "/TextUtils-app/static/js/703.4a01edae.chunk.js",
+    "static/js/9.886f08f7.chunk.js": "/TextUtils-app/static/js/9.886f08f7.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextUtils-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextUtils-app/index.html",
+    "main.7eebc124.css.map": "/TextUtils-app/static/css/main.7eebc124.css.map",
+    "main.e5d0334e.js.map": "/TextUtils-app/static/js/main.e5d0334e.js.map",
+    "703.4a01edae.chunk.js.map": "/TextUtils-app/static/js/703.4a01edae.chunk.js.map",
+    "9.886f08f7.chunk.js.map": "/TextUtils-app/static/js/9.886f08f7.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextUtils-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eebc124.css",
-    "static/js/main.f8c3d46a.js"
+    "static/js/main.e5d0334e.js"
   ]
 }
